@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<index>
+   <country>
+      <name>Paraguay</name>
+      <female>3580888</female>
+      <male>3463751</male>
+   </country>
+   
+   <country>
+      <name>Suriname</name>
+      <female>292255</female>
+      <male>289108</male>
+   </country>
+   
+   <country>   
+      <name>Guyana</name>
+      <female>393271</female>
+      <male>389504</male>
+   </country>
+   
+   <country>   
+      <name>Bolivia</name>
+      <female>5779611</female>
+      <male>5733491</male>
+   </country>
+   
+   <country>   
+      <name>Ecuador</name>
+      <female>8690487</female>
+      <male>8683170</male>
+   </country>
+   
+   <country>   
+      <name>Peru</name>
+      <female>16148241</female>
+      <male>16362221</male>
+   </country>
+   
+   <country>   
+      <name>French Guiana</name>
+      <female>143766</female>
+      <male>147057</male>
+   </country>
+   
+   <country>   
+      <name>Chile</name>
+      <female>9341774</female>
+      <male>9610261</male>
+   </country>
+   
+   <country>   
+      <name>Venezuela</name>
+      <female>14045228</female>
+      <male>14470601</male>
+   </country>
+   
+   <country>   
+      <name>Brazil</name>
+      <female>103733160</female>
+      <male>107316359</male>
+   </country> 
+   
+   <country>   
+      <name>Colombia</name>
+      <female>24713193</female>
+      <male>25626250</male>
+   </country> 
+   
+   <country>   
+      <name>Argentina</name>
+      <female>21841415</female>
+      <male>22939260</male>
+   </country> 
+   
+   <country>   
+      <name>Uruguay</name>
+      <female>1671889</female>
+      <male>1789842</male>
+   </country> 
+</index>
